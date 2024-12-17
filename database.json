@@ -1,0 +1,34 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "916000530073@s.whatsapp.net": {
+      "name": "Ronen",
+      "age": 18,
+      "registered": true,
+      "exp": 0,
+      "level": 1,
+      "studyTimer": null,
+      "banned": false,
+      "bannedTime": 0
+    }
+  },
+  "chats": {
+    "916000530073@s.whatsapp.net": {}
+  },
+  "settings": {
+    "918811935376@s.whatsapp.net": {
+      "anticall": false,
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "auto_ai_grup": true,
+      "goodbye": true,
+      "onlygrub": false,
+      "welcome": true,
+      "autoread": false
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "others": {},
+  "users": {
+    "916000530073@s.whatsapp.net": {
+      "name": "Ronen",
+      "age": 25,
+      "registered": true,
+      "exp": 1.3888888888888888,
+      "level": 1,
+      "studyTimer": null,
+      "banned": false,
+      "bannedTime": 0,
+      "premiumTime": 0,
+      "afkReason": "",
+      "premium": false,
+      "totalStudyTime": 72288,
+      "totalStudySessions": 1
+    },
+    "918811935376@s.whatsapp.net": {
+      "exp": 0,
+      "registered": false,
+      "age": -1,
+      "banned": false,
+      "bannedTime": 0,
+      "level": 0,
+      "premiumTime": 0,
+      "afkReason": "",
+      "premium": false
+    }
+  },
+  "chats": {
+    "916000530073@s.whatsapp.net": {}
+  },
+  "settings": {
+    "918811935376@s.whatsapp.net": {
+      "anticall": false,
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "auto_ai_grup": true,
+      "goodbye": true,
+      "onlygrub": false,
+      "welcome": true,
+      "autoread": false
+    }
+  }
+}
