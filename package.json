@@ -21,7 +21,7 @@
   "author": "Ronen",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^22.9.0"
+    "@types/node": "^22.10.2"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
