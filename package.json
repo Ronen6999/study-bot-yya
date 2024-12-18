@@ -20,9 +20,6 @@
   ],
   "author": "Ronen",
   "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^22.10.2"
-  },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "4.0.22-alpha.0",
