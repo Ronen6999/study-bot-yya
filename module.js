@@ -33,6 +33,7 @@ modul: {
 	perf_hooks: require('perf_hooks'),
 	pino: require('pino'),
 	parsems: require('parse-ms'),
+	process: require('process'),
 	PhoneNumber: require('awesome-phonenumber'),
 	qs: require('qs'),
     qrcodeterminal: require('qrcode-terminal'),
