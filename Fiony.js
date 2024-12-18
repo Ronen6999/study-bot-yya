@@ -621,8 +621,6 @@ break
   m.reply(mess.wait)
 	      //  let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
-            let timestampe = speed()
-            let latensie = speed() - timestampe
             xmenu_oh = `👋 *Hiii ${pushname}!* 🍃
 I'm *${botname}*, your dedicated study companion! Let’s study smarter together!
 
@@ -649,7 +647,7 @@ Fiony.sendMessage(m.chat, {
         video: {url: 'https://media.tenor.com/ghf5DgKyvTwAAAPo/cocomelon-intro.mp4'},
         gifPlayback: true,
         caption: xmenu_oh
-    }, {quoted: m})
+    }, {quoted: me})
 
     break
   }
