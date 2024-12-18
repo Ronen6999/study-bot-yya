@@ -25,7 +25,7 @@
     "@bochilteam/scraper": "4.0.22-alpha.0",
     "@hapi/boom": "^10.0.1",
     "@saipulanuar/jadianime-ts": "^2.0.0",
-    "@whiskeysockets/baileys": "^6.7.6",
+    "@whiskeysockets/baileys": "^6.7.9",
     "api-dylux": "^1.4.4",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^0.24.0",
